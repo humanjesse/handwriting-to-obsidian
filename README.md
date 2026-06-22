@@ -1,4 +1,4 @@
-# Handwritten Notes → Obsidian (local VLM transcriber)
+# Handwritten Notes → Obsidian (local transcriber)
 
 A small Python script that turns photos/scans of handwritten pages into
 searchable Obsidian notes, using a vision model running **entirely locally**.
