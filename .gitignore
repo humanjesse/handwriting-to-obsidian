@@ -1,0 +1,17 @@
+# --- private content (never commit your actual notes!) ---
+images/
+transcriptions/
+_preprocessed/
+
+# --- models / large binaries ---
+models/
+*.gguf
+
+# --- python ---
+__pycache__/
+*.pyc
+
+# --- obsidian / os cruft ---
+.obsidian/
+.trash/
+.DS_Store
