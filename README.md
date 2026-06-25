@@ -3,6 +3,8 @@
 A small Python script that turns photos/scans of handwritten pages into
 searchable Obsidian notes, using a vision model running **entirely locally**.
 
+https://www.youtube.com/watch?v=fpNamsnWT0g
+
 ## Why?
 
 I am always looking for use cases of small LLM's, and transcribing my personal handwritten notes has worked out better than expected.
