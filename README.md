@@ -3,7 +3,7 @@
 A small Python script that turns photos/scans of handwritten pages into
 searchable Obsidian notes, using a vision model running **entirely locally**.
 
-https://www.youtube.com/watch?v=fpNamsnWT0g
+[![Watch the video](https://img.youtube.com/vi/fpNamsnWT0g/maxresdefault.jpg)](https://www.youtube.com/watch?v=fpNamsnWT0g)
 
 ## Why?
 
